@@ -8,6 +8,14 @@
 
 Desenvolvedor em formação apaixonado por tecnologia e sempre em busca de novos conhecimentos. Aos 33 anos, estou construindo minha jornada no mundo da programação, combinando dedicação aos estudos com experiência de vida.
 
+### 🎓 Formação Acadêmica
+**Análise e Desenvolvimento de Sistemas** - Universidade Cruzeiro do Sul (EAD)  
+*Cursando atualmente - Modalidade que permite conciliar estudos com trabalho*
+
+### 💼 Experiência Profissional
+**Customer Support** - SkillOnNet  
+*Desenvolvendo habilidades de comunicação, resolução de problemas e atendimento ao cliente*
+
 ### 💻 Conhecimentos Atuais
 - **Fundamentos**: Algoritmos e boas práticas de programação
 - **Desenvolvimento Web**: HTML, CSS e JavaScript (conhecimento básico)
